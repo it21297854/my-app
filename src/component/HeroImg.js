@@ -1,6 +1,6 @@
 import './HeroImgStyles.css'
 import IntroImg from '../assets/bg.avif'
-import profile from '../assets/profile.PNG'
+import profile from '../assets/profile3.jpg'
 import React from 'react'
 import { Link } from 'react-router-dom'
 
