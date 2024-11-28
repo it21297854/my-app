@@ -14,7 +14,7 @@ const HeroImg = () => {
         <div className='profile-container'>
           <img className='profile-img' src={profile} alt='IntroImg' />
         </div>
-        <p>HI, I'M Sabeel Saraf</p>
+        <p>HI, I'M Sabeel Sharaf</p>
         <h1>Software Develeoper</h1>
         <div>
           <Link to='/project' className='btn'>
